@@ -1,0 +1,24 @@
+1.1
+add appointment User selection fixed 
+specified each stakeholder titles with their respective TItle
+patient sign up also with index meaning if we cancel form or submit, index page will pop up
+gender radiobutton = patient,doctor,receptionist.
+GENDER RADIOBUTTON SELECTED IN EDIT PAGE = DOCTOR,RECEPTIONIST,PATIENT.
+marital radiobutton = patient.
+marital for edit patient done, radiobuttons initialized before try method, aur getselected inside try
+date chooser add = patient,doctor,receptionist
+date chooser edit = patient,doctor,receptionist
+date chooser appointment
+joining date and edit join date doctor, receptionist
+comboblood add=pat,doc,receptionist,  edit = pat,doc,receptionist
+
+patient appoint visible to them , no other patients option will come in combobox
+
+removed patient and receptionist from patienthomepage
+made changes in appointment complete appointment button
+
+doctor in doc,pat,recep only see few details
+recep in doc and recep see few details
+added icons to every file
+changed and deleted unwanted images
+splash screen
