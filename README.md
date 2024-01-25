@@ -32,19 +32,45 @@ It is having mainly four modules, that are Admin, Doctor, Patient, Receptionist.
 * Loading Screen
 
 <p align="center">
-  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/fe9d677a-84d2-4374-a8b8-ad36077f8680" height="540px" width="600px">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/fe9d677a-84d2-4374-a8b8-ad36077f8680" height="400px" width="600px" alt="Loading Screen">
 </p>
 
 * Index Page
   
 <p align="center">
-  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/a7f73ab8-fbb8-48c5-b05e-0138b330b173" height="540px" width="600px">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/a7f73ab8-fbb8-48c5-b05e-0138b330b173" height="400px" width="600px" alt="Index Page">
 </p>
 
 * Admin Module
 <p align="center">
-  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/d867c08a-49bb-457f-957b-506ae940fa54" height="540px" width="600px">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/d867c08a-49bb-457f-957b-506ae940fa54" height="280px" width="650px" alt="Admin Login Page">
 </p>
+
+<p align="center">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/eace1809-f9b8-4433-b821-cb6d4f762795" height="280px" width="650px" alt="Admin Homepage">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/31abeab3-79d8-443a-afda-909989c24b4a" height="380px" width="650px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/52fc864d-3404-4cc8-9213-9416417646b7" height="380px" width="650px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/18bed708-c1dd-4854-8f05-c599937c2faf" height="380px" width="650px">
+</p>
+
+
+
+
+
+
+
+
+
+
 
 
 
