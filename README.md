@@ -41,6 +41,14 @@ It is having mainly four modules, that are Admin, Doctor, Patient, Receptionist.
   <img src="https://github.com/ArunVasunny/HMS/assets/95523309/a7f73ab8-fbb8-48c5-b05e-0138b330b173" height="540px" width="600px">
 </p>
 
+* Admin Module
+<p align="center">
+  <img src="https://github.com/ArunVasunny/HMS/assets/95523309/d867c08a-49bb-457f-957b-506ae940fa54" height="540px" width="600px">
+</p>
+
+
+
+
 
 
 ## Folder Structure
