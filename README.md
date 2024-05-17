@@ -62,7 +62,7 @@ It is having mainly four modules, that are Admin, Doctor, Patient, Receptionist.
   <img src="https://github.com/ArunVasunny/HMS/assets/95523309/18bed708-c1dd-4854-8f05-c599937c2faf" height="380px" width="650px">
 </p>
 
-
+# Working
 
 
 
